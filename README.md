@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm <strong>Zencaw</strong></h1>
 
-<!--
-**Zencaaw/Zencaaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Developer in progress • 🎓 Software Development Student • 🚀 Curious & Motivated  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍🎓 About Me
+
+- 🎓 Currently studying **Software Development**
+- 💻 Learning and practicing several languages, including **Java** and **JavaScript**
+- 📱 Exploring **Swift Playgrounds** to broaden my skills
+- 🌍 Based in **Namur, Belgium**
+
+---
+
+## 🛠️ Languages & Tools
+
+- **Java**
+- **HTML / CSS / JavaScript / TypeScript**
+- **C#**
+- **PHP**
+- **React / React Native**
+- **Spring**
+- **Docker**
+- **Git & GitHub**
+
+---
